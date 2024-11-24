@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# React Youtube Clone 
+Cloning project of the youtube page for usage of the youtube-API and practicing react skills 
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
